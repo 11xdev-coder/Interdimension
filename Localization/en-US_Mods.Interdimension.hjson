@@ -1,0 +1,13 @@
+Items: {
+	WhiteStonePotion: {
+		DisplayName: White Stone Potion
+		Tooltip: nnn
+	}
+}
+
+Buffs: {
+	WhiteStoneBuff: {
+		DisplayName: White Stone Buff
+		Description: You're white skinned!
+	}
+}
